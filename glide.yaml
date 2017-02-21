@@ -1,0 +1,4 @@
+package: github.com/massard-t/go-rest-api
+import:
+- package: github.com/gorilla/mux
+  version: ^1.3.0
